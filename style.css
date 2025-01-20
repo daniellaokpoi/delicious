@@ -78,6 +78,55 @@ nav {
     background-color: #dc9834;
 }
 
+
+/* Media query for the top header */
+
+@media screen and (max-width:798px) {
+    .date-time {
+        color: white;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: space-between;
+        padding: 1rem 0;
+        /* position: fixed;
+        top: 0; */
+    }
+}
+
+@media screen and (max-width:570px) {
+    .time-date {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        padding: 0.7rem;
+        font-family: Arial, Helvetica, sans-serif;
+    }  
+
+    .time-date > p {
+        margin-bottom: 1rem;
+    }
+    
+    .clock {
+        margin-left: 0rem;
+    }
+
+    .phone {
+        margin-left: 0rem;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
 .delicious-logo {
     text-decoration: none;
     color: white;
