@@ -127,6 +127,13 @@ nav {
     .phone {
         margin-left: 0rem;
     }
+    .delicious-intro {
+        background-image: url(./img/hero-carousel-1.jpg);
+        background-size: cover;
+        background-position: center;
+        min-height: 100vh;
+        padding-top: 1rem
+    }
 }
 
 
