@@ -587,7 +587,7 @@ span {
         background-color: #fff7eb;
         width: 40%;
         border-radius: 1rem;
-        padding: 0.5rem 0;
+        padding: 0.5rem 1rem;
         margin: 0 auto;
         font-weight: bold;
     }
@@ -627,7 +627,7 @@ span {
         background-color: #fff7eb;
         width: 20%;
         border-radius: 1rem;
-        padding: 0.5rem 0;
+        padding: 0.5rem 1rem;
         margin: 0 auto;
         font-weight: bold;
     }
