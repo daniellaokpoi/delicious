@@ -560,6 +560,7 @@ span {
     .lorem-flex {
         display: flex;
         flex-direction: column;
+        flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
         margin-top: 2rem;
@@ -584,7 +585,7 @@ span {
         color: #ffb03b;
         border: 1px solid #fff7eb;
         background-color: #fff7eb;
-        width: 20%;
+        width: 40%;
         border-radius: 1rem;
         padding: 0.5rem 0;
         margin: 0 auto;
@@ -594,6 +595,7 @@ span {
     .lorem-flex {
         display: flex;
         flex-direction: column;
+        flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
         margin-top: 2rem;
@@ -633,6 +635,7 @@ span {
     .lorem-flex {
         display: flex;
         flex-direction: column;
+        flex-wrap: wrap;
         align-items: center;
         justify-content: space-between;
         margin-top: 2rem;
