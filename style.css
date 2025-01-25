@@ -262,6 +262,7 @@ span {
 @media screen and (max-width:770px) {
     .delicious-header {
         margin-top: 5rem;
+        padding-bottom: 2rem;
     }
 
     .lorem-header {
@@ -389,6 +390,97 @@ span {
         line-height: 1.5;
         padding-right: 0.9rem;
     }
+
+@media screen and (max-width:768px) {
+    .after-hero1>img {
+        /* margin-right: 3rem; */
+        width: 95%;
+        max-width: 100%;
+        height: auto;
+    }
+
+    .after-hero1 {
+        width: 100%;
+        text-align: center;
+    }
+
+    .after-hero {
+        background-color: #fffaf3;
+        padding: 1rem;
+        display: flex;
+        flex-direction: column;
+    }
+
+    .voluptatem {
+        margin-top: 1rem;
+    }
+}
+
+@media screen and (max-width:725px) {
+    .after-hero1>img {
+        /* margin-right: 3rem; */
+        width: 95%;
+        max-width: 100%;
+        height: auto;
+        margin-top: 3rem;
+    }
+
+
+    .voluptatem {
+        margin-top: 1rem;
+        width: 60%;
+    }
+
+    .p1 {
+        width: 60%;
+    }
+
+    .svg>p {
+        width: 60%;
+    }
+
+    .p2 {
+        width: 70%;
+    }
+}
+
+@media screen and (max-width:570px) {
+    .after-hero1>img {
+        /* margin-right: 3rem; */
+        width: 95%;
+        max-width: 100%;
+        height: auto;
+        margin-top: 3rem;
+    }
+
+
+    .voluptatem {
+        margin-top: 1rem;
+        width: 60%;
+    }
+
+    .p1 {
+        width: 60%;
+    }
+
+    .svg>p {
+        width: 60%;
+    }
+
+    .p2 {
+        width: 70%;
+    }
+}
+
+
+
+
+
+
+
+
+
+
 
     .why {
         background-color: white;
